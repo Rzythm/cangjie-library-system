@@ -1,0 +1,12 @@
+# Build artifacts
+target/
+
+# IDE and Editor specific files
+.vscode/
+.devbrain/
+
+# Cache folders
+.cache/
+
+# macOS system files
+.DS_Store
